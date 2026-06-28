@@ -8,10 +8,10 @@
 <h2 align="center">🔥 Skills 🔥</h2>
 <br>
 
-### Web
+#### Web
 
 <p>
-<img  src="./images/html-5-svgrepo-com.svg" title="HTML" alt="HTML" height="40"> 
+<img  src="./images/html-5-svgrepo-com.svg" title="HTML" alt="HTML" height="20"> 
 <img  src="./images/file-css.svg" title="CSS" alt="CSS" height="40">
 <img  src="./images/file-type-scss.svg" title="Scss" alt="scss" height="40">
 <img  src="./images/unocss.svg" title="unocss" alt="unocss" height="40">
@@ -19,7 +19,7 @@
 <img  src="./images/bootstrap.svg" title="bootstrap" alt="bootstrap" height="40">
 </p>
 
-### JavaScript
+#### JavaScript
 
 <p>
 <img  src="./images/javascript.svg" title="JS" alt="JS" height="40">
@@ -27,7 +27,7 @@
 <img  src="./images/electron.svg" title="electron" alt="electron" height="40">
 </p>
 
-### Node
+#### Node
 
 <p>
 <img  src="./images/node.svg" title="Node" alt="Node" height="40">
@@ -37,7 +37,7 @@
 <img  src="./images/nvm.svg" title="nvm" alt="nvm" height="40" width="40">
 </p>
 
-### React
+#### React
 
 <p>
 <img  src="./images/javascript-react.svg" title="React" alt="React" height="40">
@@ -49,13 +49,13 @@
 <img  src="./images/reactnative-wordmark.svg" title="reactnative" alt="reactnative" height="40">
 </p>
 
-### Vue
+#### Vue
 
 <p>
 <img  src="./images/vue.svg" title="Vue" alt="Vue" height="40">
 </p>
 
-### Middleware
+#### Middleware
 
 <p>
 <img  src="./images/mysql.svg" title="mysql" alt="mysql" height="40">
@@ -63,7 +63,7 @@
 <img  src="./images/typeorm-wordmark.svg" title="typeorm" alt="typeorm" height="40">
 </p>
 
-### Engineer
+#### Engineer
 
 <p>
 <img  src="./images/eslint.svg" title="Eslint" alt="Eslint" height="40">
@@ -77,14 +77,14 @@
 <img  src="./images/docker-wordmark.svg" title="docker" alt="docker" height="40">
 </p>
 
-### AI
+#### AI
 
 <p>
 <img  src="./images/langchaincorporate.svg" title="langchain" alt="langchain" height="40">
 <img  src="./images/logo-mcp.svg" title="MCP" alt="MCP" height="40">
 </p>
 
-### Tool
+#### Tool
 
 <p>
 <img  src="./images/webstorm.svg" title="webstorm" alt="webstorm" height="40">
