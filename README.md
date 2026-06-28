@@ -60,7 +60,7 @@
 <p>
 <img  src="./images/mysql.svg" title="mysql" alt="mysql" height="40">
 <img  src="./images/prisma-orm.svg" title="prisma" alt="prisma" height="40">
-<img  src="./images/typeorm-wordmark.svg" title="typeorm" alt="typeorm" height="60">
+<img  src="./images/typeorm-wordmark.svg" title="typeorm" alt="typeorm" height="100">
 </p>
 
 #### Engineer
